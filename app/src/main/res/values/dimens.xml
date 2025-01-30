@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="micro_padding">6dp</dimen>
+    <dimen name="small_padding">12dp</dimen>
+    <dimen name="medium_padding">24dp</dimen>
+    <dimen name="large_padding">48dp</dimen>
+
+    <dimen name="mediumImageDimension">55dp</dimen>
+
+    <dimen name="small_rounded_corner">4dp</dimen>
+</resources>

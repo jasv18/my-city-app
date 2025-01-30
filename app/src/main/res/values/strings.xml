@@ -1,0 +1,87 @@
+<resources>
+    <string name="state_name">Barinas</string>
+    <string name="recommendations_text">Recomendaciones</string>
+    <string name="recommended_place">Recomendado</string>
+
+    <string name="back_button">Atras</string>
+
+    <string name="app_name">My City</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_places">Kid-Friendly Places</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centers">Shopping Centers</string>
+
+    <string name="categories_text">Categorias</string>
+
+    <!-- Coffee Shops -->
+    <string name="coffe_shop_title_1">Café El Frailejon</string>
+    <string name="coffe_shop_detail_1">
+        Un lugar acogedor con una gran variedad de cafés y postres. Perfecto para relajarse y disfrutar de un buen libro.
+    </string>
+    <string name="coffe_shop_title_2">Torrefactora Café Sublime CA</string>
+    <string name="coffe_shop_detail_2">
+        Disfruta de un ambiente tranquilo y una excelente selección de bebidas y aperitivos en el corazón de Barinas.
+    </string>
+    <string name="coffe_shop_title_3">Mundo Novo Café C.A</string>
+    <string name="coffe_shop_detail_3">
+        Un lugar ideal para compartir con amigos y disfrutar de un buen café.
+    </string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_title_1">Saga Cachapas</string>
+    <string name="restaurant_detail_1">
+        Conocido por sus deliciosas cachapas y ambiente familiar.
+    </string>
+    <string name="restaurant_title_2">Miami</string>
+    <string name="restaurant_detail_2">
+        Un restaurante popular con una variedad de platos típicos venezolanos.
+    </string>
+    <string name="restaurant_title_3">Restaurant Manta la casa Ecuatoriana</string>
+    <string name="restaurant_detail_3">
+        Ofrece platos típicos ecuatorianos en un ambiente agradable.
+    </string>
+
+    <!-- Kid-Friendly Places -->
+    <string name="kid_friendly_place_title_1">Parque Moromoy</string>
+    <string name="kid_friendly_place_detail_1">
+        Un parque lleno de juegos y actividades para que los niños se diviertan y jueguen de manera segura.
+    </string>
+    <string name="kid_friendly_place_title_2">Fundación Jardín Botánico Unellez</string>
+    <string name="kid_friendly_place_detail_2">
+        Un lugar ideal para una caminata familiar y observar la flora local.
+    </string>
+    <string name="kid_friendly_place_title_3">Parque de los Niños</string>
+    <string name="kid_friendly_place_detail_3">
+        Un espacio diseñado específicamente para el entretenimiento de los más pequeños.
+    </string>
+
+    <!-- Parks -->
+    <string name="park_title_1">Parque Santos Luzardo</string>
+    <string name="park_detail_1">
+        Un hermoso parque natural donde puedes disfrutar de paseos, picnics y observar la flora y fauna local.
+    </string>
+    <string name="park_title_2">Parque Zoológico de Barinas</string>
+    <string name="park_detail_2">
+        Un espacio dedicado a la conservación y exhibición de diversas especies animales.
+    </string>
+    <string name="park_title_3">Parque Moromoy</string>
+    <string name="park_detail_3">
+        Un parque lleno de vegetación y zonas para actividades al aire libre.
+    </string>
+
+    <!-- Shopping Centers -->
+    <string name="shopping_center_title_1">Centro Comercial Barinas Plaza</string>
+    <string name="shopping_center_detail_1">
+        Un centro comercial con una variedad de tiendas y opciones de entretenimiento para toda la familia.
+    </string>
+    <string name="shopping_center_title_2">Centro Comercial Los Llanos</string>
+    <string name="shopping_center_detail_2">
+        Ofrece una excelente selección de tiendas, restaurantes y áreas de recreación.
+    </string>
+    <string name="shopping_center_title_3">Centro Comercial Barinas Express</string>
+    <string name="shopping_center_detail_3">
+        Un lugar ideal para hacer compras y disfrutar de una buena comida.
+    </string>
+
+</resources>
